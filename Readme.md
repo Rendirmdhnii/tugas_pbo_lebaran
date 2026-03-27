@@ -2,7 +2,7 @@
 Implementasi Form Mahasiswa berbasis Pemrograman Berorientasi Objek (PHP OOP)
 
 ## 📝 Deskripsi Proyek
-Proyek ini dibuat untuk memenuhi tugas mata kuliah PBO. Inti dari aplikasi ini adalah mengolah data mahasiswa (Nama, NIM, Kelas, dan Prodi) menggunakan konsep **Class** dan **Object** agar kode lebih rapi dan terstruktur.
+Project ini dibuat untuk memenuhi tugas mata kuliah PBO. Inti dari aplikasi ini adalah mengolah data mahasiswa (Nama, NIM, Kelas, dan Prodi) menggunakan konsep **Class** dan **Object** agar kode lebih rapi dan terstruktur.
 
 ## 👥 Kelompok T2F (Anggota & Pembagian Tugas)
 | Nama | NIM | Kontribusi & Tanggung Jawab |
@@ -27,7 +27,7 @@ Proyek ini dibuat untuk memenuhi tugas mata kuliah PBO. Inti dari aplikasi ini a
 1. Aktifkan **Apache** di XAMPP.
 2. Simpan folder di `C:/xampp/htdocs/tugas_pbo_lebaran`.
 3. Buka browser dan ketik: `localhost/tugas_pbo_lebaran/`.
-4. Isi data mahasiswa dan klik tombol **Tampilkan Data**.
+4. Isi data mahasiswa dan klik tombol **Menampilkan Data**.
 
 ---
 *Dibuat kelompok 1 kelas T2F - Fakultas Vokasi Prodi Teknologi Informasi Universitas Brawijaya 2026*
