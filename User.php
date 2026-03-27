@@ -27,7 +27,6 @@ class Pengguna {
                 <br>
                 <a href='index.php' style='color: #007bff; text-decoration: none; font-size: 12px;'>[ Reset ]</a>
             </div>
-            //ojo diganti rek
         ";
     }
 }
