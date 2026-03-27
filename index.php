@@ -40,6 +40,7 @@
             <option value="Teknologi Informasi">Teknologi Informasi</option>
             <option value="Administrasi Bisnis">Administrasi Bisnis</option>
             <option value="Perbankan">Perbankan</option>
+            <option value="Manajemen Perhotelan">Manajemen Perhotelan</option>
         </select>
 
         <button type="submit" name="submit">Tampilkan Data</button>
