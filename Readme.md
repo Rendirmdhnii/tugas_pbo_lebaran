@@ -8,9 +8,9 @@ Proyek ini dibuat untuk memenuhi tugas mata kuliah PBO. Inti dari aplikasi ini a
 | Nama | NIM | Kontribusi & Tanggung Jawab |
 | :--- | :--- | :--- |
 | **Muhammad Rendy Ramadhani** | **253140707111058** | **Logika Pemrograman, Arsitektur OOP, & Integrasi Sistem** |
-| **Krisna Aji** | **253140707111078** | **Desain Tampilan (UI)**|
+| **Krisna Aji Dharma Jati** | **253140707111078** | **Desain Tampilan (UI)**|
 | **Desbelion Seccar Ramis** | **253140707111074** |**Dokumentasi Tugas** |
-| **Sofyan Muzakki** | **253140707111087** | **Pengujian Program (Testing)** |
+| **Sofyan Muzakki Hafiansyah** | **253140707111087** | **Pengujian Program (Testing)** |
 
 
 ## 🛠️ Konsep PBO yang Diterapkan
