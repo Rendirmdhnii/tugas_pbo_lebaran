@@ -30,4 +30,4 @@ Proyek ini dibuat untuk memenuhi tugas mata kuliah PBO. Inti dari aplikasi ini a
 4. Isi data mahasiswa dan klik tombol **Tampilkan Data**.
 
 ---
-*Dibuat oleh Tim T2F - Vokasi Teknologi Informasi Universitas Brawijaya 2026*
+*Dibuat kelompok 1 kelas T2F - Fakultas Vokasi Prodi Teknologi Informasi Universitas Brawijaya 2026*
